@@ -11,10 +11,11 @@ String s="";
     if(set.size()==0)
     return s;
     else{
-    System.out.print(set);
+    // System.out.print(set);
+    
     String str = set.toString();
 
-    System.out.print(str);
+    // System.out.print(str);
     for(int i=0;i<3;i++){
 s=s+str.charAt(str.length()-2);
     }}
