@@ -3,7 +3,7 @@ class Solution {
     TreeSet<Character> set=new TreeSet<>();
 String s="";
     for(int i=1;i<num.length()-1;i++){
-        if(num.charAt(i-1)==num.charAt(i+1))
+        if(num.charAt(i)==num.charAt(i+1)&&num.charAt(i)==num.charAt(i-1))
       set.add(num.charAt(i));
     }
 
