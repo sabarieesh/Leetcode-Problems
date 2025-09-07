@@ -13,22 +13,17 @@ for(int i=0;i<nums.length;i++){
  ArrayList<Integer> ans=new ArrayList<>();
 
 for(int i:list){
-
-
     int a=map.get(i);
     if(a==2)
     ans.add(i);
     int count=0;
-    for(int j=2;j<=a;j++){
+    for(int j=2;j<=a/2;j++){
         if(a%j==0)
         count++;
     }
     if(count==1)
     ans.add(i);
 }
-System.out.print(ans);
-System.out.print(map);
-
 
 if(ans.size()>0)
 return true;
