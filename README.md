@@ -6,6 +6,7 @@ Problems Solved by me
 ## String
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2887-sort-vowels-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
 |  |
@@ -28,4 +29,12 @@ Problems Solved by me
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+## Hash Table
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
