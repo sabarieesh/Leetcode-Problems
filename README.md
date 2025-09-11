@@ -10,5 +10,22 @@ Problems Solved by me
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
