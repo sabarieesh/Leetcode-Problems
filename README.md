@@ -10,6 +10,7 @@ Problems Solved by me
 | [2163-kth-distinct-string-in-an-array](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2887-sort-vowels-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +46,16 @@ Problems Solved by me
 | [0920-uncommon-words-from-two-sentences](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2190-count-common-words-with-one-occurrence) |
+## Math
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
