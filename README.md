@@ -50,6 +50,7 @@ Problems Solved by me
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Brainteaser
 |  |
 | ------- |
