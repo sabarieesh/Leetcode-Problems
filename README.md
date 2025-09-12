@@ -16,6 +16,7 @@ Problems Solved by me
 | ------- |
 | [0611-valid-triangle-number](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3859-maximum-product-of-two-digits](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Problems Solved by me
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3859-maximum-product-of-two-digits](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Brainteaser
 |  |
