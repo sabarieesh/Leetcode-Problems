@@ -11,6 +11,7 @@ Problems Solved by me
 | [2190-count-common-words-with-one-occurrence](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2887-sort-vowels-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -41,12 +42,14 @@ Problems Solved by me
 | [0920-uncommon-words-from-two-sentences](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sabarieesh/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sabarieesh/Leetcode-Problems/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sabarieesh/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
